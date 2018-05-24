@@ -1,0 +1,66 @@
+.cars:hover {
+    background-color: grey;
+    cursor: pointer;
+    padding-top: 1%;
+}
+
+.description {
+    color: white;
+}
+.cars.img{
+    width: 50%;
+}
+body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: "Karma", sans-serif
+    }
+
+    .w3-bar-block .w3-bar-item {
+        padding: 20px
+    }
+    .w3-image{
+        display:block;
+        margin:auto;
+    }
+    .w3-width{
+        width: 100%;
+    }
+    .w3-large{
+        max-width:1200px;
+        margin:auto;
+    }
+    .w3-main{
+        max-width:1200px;
+        margin-top:100px;
+    }
+    .w3-sidebar{
+        display:none;
+        z-index:2;
+        width:40%;
+        min-width:300px;
+    }
+    .w3-right{
+        padding: 2%;
+    }
+    .w3-button{
+        padding: 3%;
+    }
+    @media (min-width:601px){
+        .w3-col.m1{width:8.33333%}
+        .w3-col.m2{width:16.66666%}
+        .w3-col.m3,.w3-quarter{width:24.99999%}
+        .w3-col.m4,.w3-third{width:33.33333%}
+        .w3-col.m5{width:41.66666%}
+        .w3-col.m6,.w3-half{width:49.99999%}
+        .w3-col.m7{width:58.33333%}
+        .w3-col.m8,.w3-twothird{width:66.66666%}
+        .w3-col.m9,.w3-threequarter{width:74.99999%}
+        .w3-col.m10{width:83.33333%}
+        .w3-col.m11{width:91.66666%}
+        .w3-col.m12{width:99.99999%}
+    }
