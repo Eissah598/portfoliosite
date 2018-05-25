@@ -29,8 +29,7 @@ PROCEDURE:
 
 HOW TO RUN:
 1.download the files 
-2.edit the path of css in three html pages in any editor
-4.run the file using any browser
+2.run the file using any browser
 
 RESULT:
 Responsive webpage and use of bootstrap basic of front end i.e, Html,css,js is completed 
